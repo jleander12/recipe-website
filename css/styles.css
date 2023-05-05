@@ -1,0 +1,29 @@
+body {
+    background-color: #D3D3D3;
+}
+
+h1, h3 {
+    background-color: #bbfaff;
+}
+
+h2 {
+    text-align: center;
+}
+
+img {
+    width: 500px;
+    height: auto;
+}
+
+li {
+    font-size: 12px;
+    font-family: "Helvetica", "sans-serif";
+}
+
+ul > li {
+    background-color: #ff8b8b;
+}
+
+ol > li {
+    background-color: #94ff7e;
+}
